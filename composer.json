@@ -1,0 +1,16 @@
+{
+    "name": "kirk/ad-task-1",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kirk\\AdTask1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "korkydoobie",
+            "email": "krkgrffntn@gmail.com"
+        }
+    ],
+    "require": {}
+}
